@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/netology_react_app/static/css/main.d1f50170.css",
+    "main.js": "/netology_react_app/static/js/main.ec325fa5.js",
+    "static/js/787.b47eee1d.chunk.js": "/netology_react_app/static/js/787.b47eee1d.chunk.js",
+    "static/media/logo.svg": "/netology_react_app/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/netology_react_app/index.html",
+    "main.d1f50170.css.map": "/netology_react_app/static/css/main.d1f50170.css.map",
+    "main.ec325fa5.js.map": "/netology_react_app/static/js/main.ec325fa5.js.map",
+    "787.b47eee1d.chunk.js.map": "/netology_react_app/static/js/787.b47eee1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1f50170.css",
+    "static/js/main.ec325fa5.js"
+  ]
+}
